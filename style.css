@@ -107,6 +107,11 @@ a:hover{
 .shadow-effect:hover{
     box-shadow: -6px 6px 0 0 #e0f780;
 }
+.shadow-effect:hover .btn-brand{
+    background-color: #deff58;
+    color: #0f44a0);
+    border-color: #e0f780;
+}
 .i{
     width: 60px;
     height: 60px;
